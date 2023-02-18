@@ -1,0 +1,9 @@
+sonar.verbose=true
+sonar.projectDescription='This is a Node JS application'
+sonar.projectName=valaxy-Node-porject
+sonar.projectKey=nodejs-project
+sonar.organization=ravdy
+sonar.projectVersion=1.0
+sonar.language=js
+sonar.sourceEncoding=UTF-8
+sonar.sources=.
